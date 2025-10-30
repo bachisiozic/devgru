@@ -26,6 +26,7 @@ Imports:
     fs,
     cli,
     crayon,
+    pio,
     PIO,
     paint,
     pak,
