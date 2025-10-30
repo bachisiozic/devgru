@@ -27,7 +27,7 @@ Imports:
     cli,
     clisymbols,
     crayon,
-    pio,
+    PIO,
     paint,
     pak,
     librarian,
