@@ -25,7 +25,6 @@ Imports:
     BSgenome.Hsapiens.UCSC.hg38,
     fs,
     cli,
-    clisymbols,
     crayon,
     PIO,
     paint,
